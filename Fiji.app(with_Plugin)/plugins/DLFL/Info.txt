@@ -1,0 +1,3 @@
+training_script = DLFL/train_v5.pyc
+results = DLFL/results.txt
+image_width = 1024

@@ -1,0 +1,11 @@
+num_epochs = 200
+learning_rate_g = 0.0001
+learning_rate_d = 0.00001
+mse_weight = 0.001
+ssim_weight = 1
+block_size = 64
+batch_size = 12
+train_image_dir = 4_TxRed_L2_ImageJ/FITC/train/input/*.tif
+valid_image_dir = 4_TxRed_L2_ImageJ/FITC/valid/input/*.tif
+output_model_dir = Model
+num_gen = 1

@@ -1,0 +1,11 @@
+output_model_dir = D:\Users\aznro\Documents\HHMI\HHMI_Hongda\Hongda_v2\Model\
+mse_weight = 0.001
+batch_size = 12
+learning_rate_g = 0.0001
+valid_image_dir = D:\Users\aznro\Documents\HHMI\HHMI_Hongda\Train_Plugin\4_TxRed_L2_ImageJ\TxRed\valid\input\
+num_gen = 1
+train_image_dir = D:\Users\aznro\Documents\HHMI\HHMI_Hongda\Train_Plugin\4_TxRed_L2_ImageJ\TxRed\train\input\
+learning_rate_d = 0.00001
+block_size = 64
+num_epochs = 200
+ssim_weight = 1
